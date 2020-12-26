@@ -2,6 +2,12 @@
 
 ### Hi there! 👋
 
+### Talk to Me:
+📧 pedrokatsbarros@gmail.com
+
+![Linguagem C](img/Logo_LinkedIn.png) <https://www.linkedin.com/in/pedrokbarros>
+
+
 ### Professional / Academic Summary:
 Completed elementary school and high school at Colégio Curso Martins (2015). He is currently graduating with a Bachelor of Science in Computer Science from Universidade Veiga de Almeida (completion scheduled for 2021.2).
 
