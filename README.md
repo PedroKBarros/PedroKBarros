@@ -9,9 +9,10 @@ Completed elementary school and high school at Colégio Curso Martins (2015). He
 Improve my skills and develop my theoretical knowledge, in order to become a qualified employee for a good position in the job market.
 
 ### Main Skills:
-#### Languages:
-
-![Linguagem C](img/Logo_Linguagem_C.png) • ![Linguagem Java](img/Logo2_Linguagem_Java.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png) • ![Linguagem Python](img/Logo_Linguagem_Python.png)  
+#### Languages ​​and Technologies in General:
+![Linguagem C](img/Logo_Linguagem_C.png) • ![Linguagem Java](img/Logo2_Linguagem_Java.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png) • ![Linguagem Python](img/Logo_Linguagem_Python.png)
+#### Web Development (front-end):
+![Linguagem HTML](img/Logo_Linguagem_HTML.png) • ![Linguagem CSS](img/Logo_Linguagem_CSS.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png)
 
 
 <!--
