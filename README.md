@@ -1,4 +1,6 @@
-### Hi there 👋
+![capa](img/Capa.png)
+
+### Hi there! 👋
 
 <!--
 **PedroKBarros/PedroKBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
