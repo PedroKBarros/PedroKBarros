@@ -10,7 +10,7 @@ Improve my skills and develop my theoretical knowledge, in order to become a qua
 
 ### Main Skills:
 #### Languages:
-![Linguagem C](img/Logo_Linguagem_C.png)
+![Linguagem C](img/Logo_Linguagem_C.png)   ![Linguagem Java](img/Logo_Linguagem_Java.png)
 
 
 <!--
