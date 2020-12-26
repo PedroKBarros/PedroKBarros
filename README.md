@@ -5,7 +5,7 @@
 ### Talk to Me:
 📧 pedrokatsbarros@gmail.com
 
-![Linguagem C](img/Logo_LinkedIn.png) <https://www.linkedin.com/in/pedrokbarros>
+![LinkedIn](img/Logo_LinkedIn.png) <https://www.linkedin.com/in/pedrokbarros>
 
 
 ### Professional / Academic Summary:
@@ -19,7 +19,7 @@ Completed elementary school and high school at Colégio Curso Martins (2015). He
 
 ### Main Skills:
 #### Languages ​​and Technologies in General:
-![Linguagem C](img/Logo_Linguagem_C.png) • ![Linguagem Java](img/Logo2_Linguagem_Java.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png) • ![Linguagem Python](img/Logo_Linguagem_Python.png) • ![Linguagem HTML](img/Logo_Linguagem_HTML.png) • ![Linguagem CSS](img/Logo_Linguagem_CSS.png) • ![SGBD MySQL](img/Logo_MySQL.png) • ![SQLite](img/Logo_SQLite.png)
+![Linguagem C](img/Logo_Linguagem_C.png) • ![Linguagem Java](img/Logo2_Linguagem_Java.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png) • ![Linguagem TypeScript](img/Logo_Linguagem_TypeScript.png) • ![Linguagem Python](img/Logo_Linguagem_Python.png) • ![Linguagem HTML](img/Logo_Linguagem_HTML.png) • ![Linguagem CSS](img/Logo_Linguagem_CSS.png) • ![SGBD MySQL](img/Logo_MySQL.png) • ![SQLite](img/Logo_SQLite.png)
 #### Web Development (front-end):
 ![Linguagem HTML](img/Logo_Linguagem_HTML.png) • ![Linguagem CSS](img/Logo_Linguagem_CSS.png) • ![Linguagem JavaScript](img/Logo_Linguagem_Java_Script.png)
 #### Mobile Development (OS Android):
