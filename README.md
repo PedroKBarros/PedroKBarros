@@ -1,5 +1,3 @@
-![capa](img/Capa.png)
-
 ### Hi there! 👋
 
 ### Talk to Me:
